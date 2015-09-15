@@ -1,0 +1,11 @@
+# Site settings
+title: Jeremy Kratz
+email: jeremy@jeremykratz.com
+description: > # Jeremy Kratz is a web developer, designer, writer, and more.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jeremykratz.com" # the base hostname & protocol for your site
+twitter_username: jwkratz
+github_username:  jwkratz
+
+# Build settings
+markdown: kramdown
